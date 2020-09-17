@@ -1,22 +1,21 @@
 user klasse
 public class User {
 
-	private int id;
-	private String email;
-	private String name;
-	private int pw;
-	private String vorname;
-	private String anrede;
-
+    private int id;
+    private String email;
+    private String name;
+    private String vorname;
+    private String anrede;
+    private String pw;
 
 
     public int getId() {
-        return id;
-    }
+        	return id;
+    		}
 
     public void setId(int id) {
         this.id = id;
-    }
+    		}
 
     public String getEmail() {
         return email;
@@ -56,6 +55,7 @@ public class User {
     public String getVorname(){
 	return vorname;
     }
+}
 
     
 

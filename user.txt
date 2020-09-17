@@ -33,5 +33,19 @@ public class User {
     public String getName() {
         return name;
     }
+    
+    public void setName(String name){
+	this.name=name;
+    }
+
+    public void setAnrede(String anrede){
+        this.anrede=anrede;
+    }
+    public String getAnrede(){
+	return anrede;
+    }
+
+
+
 
  }

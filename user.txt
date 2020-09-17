@@ -3,16 +3,20 @@ public class User {
 
 	private int id;
 	private String email;
-	private name;
+	private String name;
+	private int pw;
+	private String vorname;
+	private String anrede;
 
 
-   	 public int getId() {
-        	return id;
-    		}
 
-    	public void setId(int id) {
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
         this.id = id;
-    		}
+    }
 
     public String getEmail() {
         return email;
@@ -44,6 +48,16 @@ public class User {
     public String getAnrede(){
 	return anrede;
     }
+
+    public void setVorname(String vorname){
+	this.vorname=vorname;
+    }
+
+    public String getVorname(){
+	return vorname;
+    }
+
+    
 
 
 

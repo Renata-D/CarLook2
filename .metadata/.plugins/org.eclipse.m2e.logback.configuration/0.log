@@ -2827,3 +2827,40 @@
 2020-09-18 18:40:46,780 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-09-18 18:40:46,787 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-18 18:40:46,788 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Renata\Documents\GitHub\CarLook2\CarLock2\src\test\resources
+2020-09-18 18:50:43,228 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-18 18:50:52,740 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vaadin:myapplication:1.0-SNAPSHOT @ C:\Users\Renata\Documents\GitHub\CarLook2\CarLock2\pom.xml.
+2020-09-18 18:51:20,257 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN\themes\mytheme
+2020-09-18 18:51:22,231 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2020-09-18 18:51:22,232 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2020-09-18 18:51:22,233 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2020-09-18 18:51:22,234 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 112ms
+2020-09-18 18:51:23,175 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN\themes\mytheme" updated
+2020-09-18 18:51:23,203 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2020-09-18 18:51:23,216 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - No widgetsets found - generating AppWidgetset if necessary.
+2020-09-18 18:51:23,251 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating widgetset AppWidgetset
+2020-09-18 18:51:23,253 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding resource directory to command classpath: C:\Users\Renata\Documents\GitHub\CarLook2\CarLock2\src\main\resources
+2020-09-18 18:51:23,256 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding resource directory to command classpath: C:\Users\Renata\Documents\GitHub\CarLook2\CarLock2\target\generated-resources\gwt
+2020-09-18 18:51:23,260 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 7.7.17
+2020-09-18 18:51:23,837 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 7.7.17
+2020-09-18 18:51:26,050 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2020-09-18 18:51:26,051 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.vaadin.DefaultWidgetSet in jar:file:C:/Users/Renata/.m2/repository/com/vaadin/vaadin-client/7.7.17/vaadin-client-7.7.17.jar!/
+2020-09-18 18:51:26,051 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2020-09-18 18:51:26,051 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2020-09-18 18:51:26,052 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 47ms
+2020-09-18 18:51:26,230 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN\themes\mytheme
+2020-09-18 18:51:38,835 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN\themes\mytheme" compiled
+2020-09-18 18:51:39,087 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-18 18:51:39,089 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-18 18:51:39,108 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-18 18:51:39,134 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2020-09-18 18:51:39,142 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 7.7.17
+2020-09-18 18:51:39,175 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 7.7.17
+2020-09-18 18:51:39,226 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-18 18:51:39,227 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Renata\Documents\GitHub\CarLook2\CarLock2\src\test\resources
+2020-09-18 18:51:41,308 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-18 18:51:41,314 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-18 18:51:41,353 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2020-09-18 18:51:41,358 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 7.7.17
+2020-09-18 18:51:41,398 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 7.7.17
+2020-09-18 18:51:41,439 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-18 18:51:41,440 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Renata\Documents\GitHub\CarLook2\CarLock2\src\test\resources

@@ -2,17 +2,20 @@ package Entitaeten;
 
 
 public class Endkunde extends User {
-	private String kundenid;
+	private int kundenid;
 	private String name;
+	private String anrede;
+	private String vorname;
+	
 
     
 
-    		public String getID() {
-        		return ID;
+    		public int getID() {
+        		return kundenid;
     		}
 
-   		 public void setID(String kundenid) {
-        		this.kundeid = kundenid;
+   		 public void setID(int kundenid) {
+        		this.kundenid = kundenid;
     		}			
 
     		public String getAnrede() {
@@ -29,6 +32,9 @@ public class Endkunde extends User {
 
     		public void setVorname(String vorname) {
         		this.vorname = vorname;
+    		}
+    		public String getVorname() {
+    			return vorname;
     		}
 
   

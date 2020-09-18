@@ -1,4 +1,4 @@
-public class auto extends AbstractEntity {
+public class Auto extends AbstractEntity {
     private int autoid;
     private String marke;
     private String beschreibung;

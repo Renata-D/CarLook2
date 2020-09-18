@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Renata\Documents\GitHub\CarLook2\.metadata\.plugins\org.eclipse.jdt.core
-631383727.index
-1147096273.index

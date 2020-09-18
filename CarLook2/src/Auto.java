@@ -1,22 +1,21 @@
-public class Auto extends AbstractEntity {
-    private int autoid;
+import java.util.Date;
+
+public class Auto {
+    private int autoId;
     private String marke;
     private String beschreibung;
     private String model;
     private String farbe;
     private Date datum;
 
-    public auto(String) {
-        super();
 
-    }
 
     public int getautoId() {
         return autoId;
     }
 
     public void setautoId(int autoId) {
-        autoId=autoId;
+        this.autoId=autoId;
     }
 
     public String getmarke() {

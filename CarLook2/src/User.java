@@ -1,4 +1,4 @@
-user klasse
+//user klasse
 public class User {
 
     private int id;
@@ -62,4 +62,4 @@ public class User {
 
 
 
- }
+ 

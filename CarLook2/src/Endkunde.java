@@ -1,3 +1,6 @@
+package Entitaeten;
+
+
 public class Endkunde extends User {
 	private int kundenid;
 	private String name;

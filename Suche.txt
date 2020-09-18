@@ -1,0 +1,37 @@
+//suche
+
+
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class AutoSuche {
+
+    Auto auto1 = new Auto("BMW",2010);
+    Auto auto2 = new Auto("Ford",1998);
+    Auto auto3 = new Auto("Porsche",2001);
+
+    private AutoSuche(){
+
+    }
+
+    public static AutoSuche search = null;
+
+    public static AutoSuche getInstance(){
+        if(search == null){
+            search = new AutoSuche();
+        }
+        return search;
+    }
+
+    public List<Autos> getAutosByMarke(String marke){
+        ArrayList<Autos> liste = new ArrayList<Auto>();
+
+        if( ort.equals("Ford")) liste.add(auto2);
+        if( ort.equals("BMW")) liste.add(auto1);
+        if( ort.equals("Porsche")) liste.add(auto3);
+
+        return liste;
+    }
+
+}

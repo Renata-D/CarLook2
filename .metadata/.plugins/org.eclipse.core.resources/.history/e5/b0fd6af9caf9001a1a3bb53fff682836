@@ -1,0 +1,17 @@
+package View;
+
+import com.vaadin.myapplication.*;
+
+
+
+
+
+
+public class Login {
+	
+	public void init(VaadinRequest req) {
+		
+	}
+
+
+}

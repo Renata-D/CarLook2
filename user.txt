@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream:user.txt
 user klasse
+=======
+package Entitaeten;
+//user klasse
+>>>>>>> Stashed changes:CarLock2/src/main/java/Entitaeten/User.java
 public class User {
 
 	private int id;

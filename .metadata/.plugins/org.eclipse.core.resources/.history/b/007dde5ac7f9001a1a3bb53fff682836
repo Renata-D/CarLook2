@@ -1,0 +1,5 @@
+import com.vaadin.annotations.Title;
+
+public class TestTest {
+
+}

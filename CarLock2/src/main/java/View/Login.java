@@ -23,7 +23,7 @@ public class Login {
   private HorizontalLayout setSiteLayout() {
 	 
 	  	VerticalLayout layce = setLayoutCentre();
-	  	VerticalLayout layri = new VerticalLayout;
+	  	VerticalLayout layri = new VerticalLayout();
 	  	VerticalLayout layle = setLayoutLeft();
 
 	  	new Button("Registrieren",
